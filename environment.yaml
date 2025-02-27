@@ -1,0 +1,13 @@
+# Conda virtual environment definition
+
+# Usage:
+# conda env create --name embedding-env --file environment.yaml
+# source activate embedding-env
+
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - pytorch
+  - transformers
+  - lancedb=0

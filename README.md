@@ -37,3 +37,4 @@ sbatch job.sh
 # References
 
 - NYU HPC [LLM on HPC](https://sites.google.com/nyu.edu/nyu-hpc/training-support/general-hpc-topics/ai-at-hpc-tips/llm-on-hpc)
+- https://gist.github.com/EdwinB12/b62c8f600c8849df1059170292aa0225

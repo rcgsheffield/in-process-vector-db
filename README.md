@@ -2,6 +2,8 @@
 
 This repository contains an example embedding process and vector database for use on [Stanage high performance computing](https://docs.hpc.shef.ac.uk/en/latest/stanage/index.html#gsc.tab=0) (HPC) cluster at the University of Sheffield.
 
+To run the embedding models, a popular option is to run an [Ollama](https://ollama.com/) server to provide models via an API. This doesn't currently work because it's incompatible with the version of GLIBC that's available on Stanage.
+
 # Installation
 
 1. Log into the cluster

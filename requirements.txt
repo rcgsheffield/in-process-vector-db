@@ -1,0 +1,4 @@
+chromadb==0.*
+langchain==0.*
+langchain-chroma==0.*
+sentence-transformers==3.*

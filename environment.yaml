@@ -8,6 +8,4 @@ channels:
   - conda-forge
 dependencies:
   - python=3.13
-  - pytorch
-  - transformers
-  - lancedb=0
+  - langchain=0
